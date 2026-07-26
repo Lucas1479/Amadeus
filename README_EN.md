@@ -1,8 +1,6 @@
 <div align="center">
 
-# Amadeus
-
-**A local desktop AI agent that can speak, inhabit your desktop, and get work done**
+<img src="./assets/header.en.svg" alt="Amadeus — a persistent AI OS interface on the desktop" width="100%">
 
 Amadeus brings interruptible voice, an embodied character, desktop scenes,<br>
 and Coding / Browser Agents into one visible, resumable, user-steerable interface.

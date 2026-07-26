@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Amadeus — a persistent AI OS interface on the desktop">
+  <title>AMADEUS // CHAPTER 00 — A persistent AI OS interface on the desktop</title>
+  <defs>
+    <linearGradient id="c_bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020b08"/>
+      <stop offset="1" stop-color="#061710"/>
+    </linearGradient>
+    <linearGradient id="c_panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1711"/>
+      <stop offset="1" stop-color="#061710"/>
+    </linearGradient>
+    <linearGradient id="c_hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a8cdb8" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#a8cdb8" stop-opacity=".03"/>
+    </linearGradient>
+    <radialGradient id="c_wash" cx="8%" cy="0%" r="46%">
+      <stop offset="0" stop-color="#39c98d" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#39c98d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="c_tung" cx="96%" cy="106%" r="44%">
+      <stop offset="0" stop-color="#d7a95f" stop-opacity=".11"/>
+      <stop offset="1" stop-color="#d7a95f" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="c_scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1" fill="#b6f9d5" opacity=".05"/>
+    </pattern>
+    <filter id="c_soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <clipPath id="c_frame"><rect x="16" y="16" width="1248" height="268" rx="10"/></clipPath>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace}
+      .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+      .rec{animation:rec 2.2s ease-in-out infinite}
+      @keyframes rec{0%,100%{opacity:1}50%{opacity:.25}}
+      @media (prefers-reduced-motion:reduce){.rec{animation:none}}
+    </style>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#c_bg)"/>
+
+  <g clip-path="url(#c_frame)">
+    <rect x="16" y="16" width="1248" height="268" fill="url(#c_panel)"/>
+    <rect x="16" y="16" width="1248" height="268" fill="url(#c_wash)"/>
+    <rect x="16" y="16" width="1248" height="268" fill="url(#c_tung)"/>
+    <rect x="16" y="16" width="1248" height="268" fill="url(#c_scan)"/>
+    <rect x="16" y="16" width="4" height="268" fill="#61eeb6" opacity=".9"/>
+    <rect x="16" y="16" width="18" height="268" fill="#61eeb6" opacity=".13" filter="url(#c_soft)"/>
+
+    <text class="mono" x="52" y="62" font-size="15" letter-spacing="4.4" fill="#83d7aa">AMADEUS // CHAPTER 00</text>
+
+    <g stroke="#46745d" fill="none">
+      <rect x="1208.5" y="47.5" width="19" height="19" rx="2"/>
+    </g>
+    <rect class="rec" x="1213" y="52" width="10" height="10" rx="1" fill="#61eeb6" opacity=".8"/>
+    <g>
+      <rect x="1000.5" y="47.5" width="188" height="25" rx="12.5" fill="#272018" stroke="#483820"/>
+      <text class="mono" x="1094" y="64" font-size="11.5" letter-spacing="1.4" fill="#d7a95f" text-anchor="middle">SOURCE PENDING</text>
+    </g>
+
+    <text class="sans" x="50" y="128" font-size="36" font-weight="600" fill="#eafff2">A persistent AI OS interface on the desktop</text>
+    <text class="sans" x="52" y="162" font-size="17" fill="#91bca5">Conversation, character performance, and task execution on one timeline</text>
+
+    <rect x="52" y="198" width="1176" height="1" fill="url(#c_hair)"/>
+    <g fill="#a8cdb8" opacity=".1">
+      <rect x="325" y="214" width="1" height="46"/><rect x="622" y="214" width="1" height="46"/><rect x="919" y="214" width="1" height="46"/>
+    </g>
+    <g class="mono" font-size="12" letter-spacing="2.4" fill="#82aa92">
+      <text x="52" y="228">TALK</text><text x="349" y="228">EMBODY</text><text x="646" y="228">ACT</text><text x="943" y="228">CONTROL</text>
+    </g>
+    <g class="sans" font-size="18" font-weight="600" fill="#d9f7e6">
+      <text x="52" y="256">interruptible voice</text><text x="349" y="256">speech-synced performance</text><text x="646" y="256">delegated providers</text><text x="943" y="256">resumable · steerable</text>
+    </g>
+  </g>
+  <rect x="16.5" y="16.5" width="1247" height="267" rx="10" fill="none" stroke="#2f624a"/>
+</svg>

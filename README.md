@@ -1,8 +1,6 @@
 <div align="center">
 
-# Amadeus
-
-**一个会说话、会出现，也会把工作做完的本地桌面 AI Agent**
+<img src="./assets/header.zh.svg" alt="Amadeus — 一层常驻桌面的 AI OS 交互界面" width="100%">
 
 把可打断语音、角色具身、桌面场景与 Coding / Browser Agent<br>
 放进同一个可见、可恢复、可由用户接管的工作界面。
