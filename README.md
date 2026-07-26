@@ -1,11 +1,21 @@
 <div align="center">
 
-<img src="./assets/header.zh.svg" alt="Amadeus — 一层常驻桌面的 AI OS 交互界面" width="100%">
+<img src="./assets/header.zh.svg" width="880" alt="Amadeus — 一层常驻桌面的 AI OS 交互界面"/>
 
-把可打断语音、角色具身、桌面场景与 Coding / Browser Agent<br>
-放进同一个可见、可恢复、可由用户接管的工作界面。
+<h1>Amadeus</h1>
 
-[简体中文](./README.md) · [English](./README_EN.md) · [B 站演示](https://www.bilibili.com/video/BV1783G6hEYY/) · [架构大图](./assets/architecture-overview-crt.svg)
+<p>把可打断语音、角色具身、桌面场景与 Coding / Browser Agent<br/>放进同一个可见、可恢复、可由用户接管的工作界面。</p>
+
+<p>
+  中文 | <a href="./README_EN.md">English</a>
+</p>
+
+<p>
+  <a href="https://www.bilibili.com/video/BV1783G6hEYY/"><img src="https://img.shields.io/badge/demo-Bilibili-2f624a?labelColor=061710&logo=bilibili&logoColor=61eeb6" alt="B 站演示"/></a>
+  <a href="./assets/architecture-overview-crt.svg"><img src="https://img.shields.io/badge/architecture-overview-184b36?labelColor=061710" alt="架构大图"/></a>
+  <img src="https://img.shields.io/badge/source-pending%20audit-483820?labelColor=061710" alt="源码状态"/>
+  <img src="https://img.shields.io/badge/license-TBD-272018?labelColor=061710" alt="许可证"/>
+</p>
 
 [![Amadeus 中的 Provider 工作界面：任务状态、工具事件、流式结果与场景角色同时可见](./assets/demo/provider-runtime.jpg)](https://www.bilibili.com/video/BV1783G6hEYY/)
 

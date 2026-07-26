@@ -1,11 +1,21 @@
 <div align="center">
 
-<img src="./assets/header.en.svg" alt="Amadeus — a persistent AI OS interface on the desktop" width="100%">
+<img src="./assets/header.en.svg" width="880" alt="Amadeus — a persistent AI OS interface on the desktop"/>
 
-Amadeus brings interruptible voice, an embodied character, desktop scenes,<br>
-and Coding / Browser Agents into one visible, resumable, user-steerable interface.
+<h1>Amadeus</h1>
 
-[简体中文](./README.md) · [English](./README_EN.md) · [Bilibili Demo](https://www.bilibili.com/video/BV1783G6hEYY/) · [Architecture](./assets/architecture-overview-crt.svg)
+<p>Amadeus brings interruptible voice, an embodied character, desktop scenes,<br/>and Coding / Browser Agents into one visible, resumable, user-steerable interface.</p>
+
+<p>
+  <a href="./README.md">中文</a> | English
+</p>
+
+<p>
+  <a href="https://www.bilibili.com/video/BV1783G6hEYY/"><img src="https://img.shields.io/badge/demo-Bilibili-2f624a?labelColor=061710&logo=bilibili&logoColor=61eeb6" alt="Bilibili demo"/></a>
+  <a href="./assets/architecture-overview-crt.svg"><img src="https://img.shields.io/badge/architecture-overview-184b36?labelColor=061710" alt="Architecture overview"/></a>
+  <img src="https://img.shields.io/badge/source-pending%20audit-483820?labelColor=061710" alt="Source status"/>
+  <img src="https://img.shields.io/badge/license-TBD-272018?labelColor=061710" alt="License"/>
+</p>
 
 [![The Provider workspace in Amadeus, with task state, tool events, streaming results, and the embodied character visible together](./assets/demo/provider-runtime.jpg)](https://www.bilibili.com/video/BV1783G6hEYY/)
 

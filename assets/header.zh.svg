@@ -1,10 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Amadeus — 一层常驻桌面的 AI OS 交互界面">
   <title>AMADEUS // CHAPTER 00 — 一层常驻桌面的 AI OS 交互界面</title>
   <defs>
-    <linearGradient id="c_bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#020b08"/>
-      <stop offset="1" stop-color="#061710"/>
-    </linearGradient>
     <linearGradient id="c_panel" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0b1711"/>
       <stop offset="1" stop-color="#061710"/>
@@ -36,8 +32,6 @@
       @media (prefers-reduced-motion:reduce){.rec{animation:none}}
     </style>
   </defs>
-
-  <rect width="1280" height="300" fill="url(#c_bg)"/>
 
   <g clip-path="url(#c_frame)">
     <rect x="16" y="16" width="1248" height="268" fill="url(#c_panel)"/>
