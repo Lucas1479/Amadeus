@@ -2,7 +2,7 @@
 
 <h1>Amadeus: Real-Time Multimodal AI Agent for Desktop Interaction</h1>
 
-<img src="./assets/header.en.svg" width="880" alt="Amadeus — an interaction layer for a local AI OS: interruptible voice, speech-synced performance, delegated providers, resumable and steerable"/>
+<img src="./assets/header-card.en.svg" width="880" alt="Amadeus — an interaction layer for a local AI OS: interruptible voice, speech-synced performance, delegated providers, resumable and steerable"/>
 
 <p>
   <a href="./README.md">中文</a> | English

@@ -2,7 +2,7 @@
 
 <h1>Amadeus: Real-Time Multimodal AI Agent for Desktop Interaction</h1>
 
-<img src="./assets/header.zh.svg" width="880" alt="Amadeus — 一层面向本地 AI OS 的交互界面；可打断的实时语音、表演与语音同帧、Provider 委派执行、可恢复可接管"/>
+<img src="./assets/header-card.zh.svg" width="880" alt="Amadeus — 一层面向本地 AI OS 的交互界面；可打断的实时语音、表演与语音同帧、Provider 委派执行、可恢复可接管"/>
 
 <p>
   中文 | <a href="./README_EN.md">English</a>
