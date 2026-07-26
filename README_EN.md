@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.en.svg" width="880" alt="Amadeus — a persistent AI OS interface on the desktop"/>
-
-<h1>Amadeus</h1>
+<h1>Amadeus: Real-Time Multimodal AI Agent for Desktop Interaction</h1>
 
 <p>Amadeus brings interruptible voice, an embodied character, desktop scenes,<br/>and Coding / Browser Agents into one visible, resumable, user-steerable interface.</p>
 
@@ -16,6 +14,8 @@
   <img src="https://img.shields.io/badge/source-pending%20audit-483820?labelColor=061710" alt="Source status"/>
   <img src="https://img.shields.io/badge/license-open%20source%20%C2%B7%20noncommercial-272018?labelColor=061710" alt="License"/>
 </p>
+
+<img src="./assets/header.en.svg" width="880" alt="Amadeus — conversation, performance, and execution on one timeline"/>
 
 [![The Provider workspace in Amadeus, with task state, tool events, streaming results, and the embodied character visible together](./assets/demo/provider-runtime.jpg)](https://www.bilibili.com/video/BV1783G6hEYY/)
 

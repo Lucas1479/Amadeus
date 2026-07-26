@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.zh.svg" width="880" alt="Amadeus — 一层常驻桌面的 AI OS 交互界面"/>
-
-<h1>Amadeus</h1>
+<h1>Amadeus: Real-Time Multimodal AI Agent for Desktop Interaction</h1>
 
 <p>把可打断语音、角色具身、桌面场景与 Coding / Browser Agent<br/>放进同一个可见、可恢复、可由用户接管的工作界面。</p>
 
@@ -16,6 +14,8 @@
   <img src="https://img.shields.io/badge/source-pending%20audit-483820?labelColor=061710" alt="源码状态"/>
   <img src="https://img.shields.io/badge/license-open%20source%20%C2%B7%20noncommercial-272018?labelColor=061710" alt="许可证"/>
 </p>
+
+<img src="./assets/header.zh.svg" width="880" alt="Amadeus — 对话、角色表演与任务执行，共享同一条时间线"/>
 
 [![Amadeus 中的 Provider 工作界面：任务状态、工具事件、流式结果与场景角色同时可见](./assets/demo/provider-runtime.jpg)](https://www.bilibili.com/video/BV1783G6hEYY/)
 
