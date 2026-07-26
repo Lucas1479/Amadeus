@@ -14,7 +14,7 @@
   <a href="https://www.bilibili.com/video/BV1783G6hEYY/"><img src="https://img.shields.io/badge/demo-Bilibili-2f624a?labelColor=061710&logo=bilibili&logoColor=61eeb6" alt="Bilibili demo"/></a>
   <a href="./assets/architecture-overview-crt.svg"><img src="https://img.shields.io/badge/architecture-overview-184b36?labelColor=061710" alt="Architecture overview"/></a>
   <img src="https://img.shields.io/badge/source-pending%20audit-483820?labelColor=061710" alt="Source status"/>
-  <img src="https://img.shields.io/badge/license-TBD-272018?labelColor=061710" alt="License"/>
+  <img src="https://img.shields.io/badge/license-open%20source%20%C2%B7%20noncommercial-272018?labelColor=061710" alt="License"/>
 </p>
 
 [![The Provider workspace in Amadeus, with task state, tool events, streaming results, and the embodied character visible together](./assets/demo/provider-runtime.jpg)](https://www.bilibili.com/video/BV1783G6hEYY/)
@@ -138,7 +138,7 @@ The first source version is expected to include the core runtime, required confi
 
 The public commit history starts with open-source preparation. Earlier internal development history remains in a non-public repository; the reviewed public source will be committed here as a deliberately prepared release.
 
-No source code or open-source license has been published yet. Until a license is announced with the first source release, do not treat this repository as granting permission to use, modify, or redistribute code or media assets.
+No source code has been published yet. The license is planned to be **open source with commercial use disallowed**; its exact terms will be published with the first source release. Until then, do not treat this repository as granting permission to use, modify, or redistribute code or media assets.
 
 ## Related projects
 

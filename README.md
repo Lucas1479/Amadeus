@@ -14,7 +14,7 @@
   <a href="https://www.bilibili.com/video/BV1783G6hEYY/"><img src="https://img.shields.io/badge/demo-Bilibili-2f624a?labelColor=061710&logo=bilibili&logoColor=61eeb6" alt="B 站演示"/></a>
   <a href="./assets/architecture-overview-crt.svg"><img src="https://img.shields.io/badge/architecture-overview-184b36?labelColor=061710" alt="架构大图"/></a>
   <img src="https://img.shields.io/badge/source-pending%20audit-483820?labelColor=061710" alt="源码状态"/>
-  <img src="https://img.shields.io/badge/license-TBD-272018?labelColor=061710" alt="许可证"/>
+  <img src="https://img.shields.io/badge/license-open%20source%20%C2%B7%20noncommercial-272018?labelColor=061710" alt="许可证"/>
 </p>
 
 [![Amadeus 中的 Provider 工作界面：任务状态、工具事件、流式结果与场景角色同时可见](./assets/demo/provider-runtime.jpg)](https://www.bilibili.com/video/BV1783G6hEYY/)
@@ -138,7 +138,7 @@ Amadeus
 
 本公开仓库的提交历史从开源准备阶段开始。此前的内部研发历史保留在非公开仓库中；正式源码会作为经过整理和审计的公开版本提交到这里。
 
-本仓库目前尚未发布源码，也尚未选择开源许可证。在许可证随首个源码版本正式公布之前，请勿将当前仓库视为已经授予代码或媒体素材的使用、修改或再分发许可。
+本仓库目前尚未发布源码。许可证计划为**开源但禁止商业使用**，具体条款会随首个源码版本一并公布；在此之前，请勿将当前仓库视为已经授予代码或媒体素材的使用、修改或再分发许可。
 
 ## 相关项目
 
