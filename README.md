@@ -2,11 +2,13 @@
 
 <h1>Amadeus: Real-Time Multimodal AI Agent for Desktop Interaction</h1>
 
-<img src="./assets/header-card.zh.svg" width="880" alt="Amadeus — 一层面向本地 AI OS 的交互界面；可打断的实时语音、表演与语音同帧、Provider 委派执行、可恢复可接管"/>
+<p>一层面向本地 AI OS 的交互界面</p>
 
 <p>
   中文 | <a href="./README_EN.md">English</a>
 </p>
+
+<img src="./assets/header-strip.zh.svg" width="880" alt="TALK 可打断的实时语音 · EMBODY 表演与语音同帧 · ACT Provider 委派执行 · CONTROL 可恢复、可接管"/>
 
 <p>
   <a href="https://www.bilibili.com/video/BV1783G6hEYY/"><img src="https://img.shields.io/badge/demo-Bilibili-2f624a?labelColor=061710&logo=bilibili&logoColor=61eeb6" alt="B 站演示"/></a>

@@ -2,11 +2,13 @@
 
 <h1>Amadeus: Real-Time Multimodal AI Agent for Desktop Interaction</h1>
 
-<img src="./assets/header-card.en.svg" width="880" alt="Amadeus — an interaction layer for a local AI OS: interruptible voice, speech-synced performance, delegated providers, resumable and steerable"/>
+<p>An interaction layer for a local AI OS</p>
 
 <p>
   <a href="./README.md">中文</a> | English
 </p>
+
+<img src="./assets/header-strip.en.svg" width="880" alt="TALK interruptible voice · EMBODY speech-synced performance · ACT delegated providers · CONTROL resumable and steerable"/>
 
 <p>
   <a href="https://www.bilibili.com/video/BV1783G6hEYY/"><img src="https://img.shields.io/badge/demo-Bilibili-2f624a?labelColor=061710&logo=bilibili&logoColor=61eeb6" alt="Bilibili demo"/></a>
