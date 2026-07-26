@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Amadeus — 对话、角色表演与任务执行，共享同一条时间线">
-  <title>AMADEUS // CHAPTER 00 — 对话、角色表演与任务执行，共享同一条时间线</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Amadeus — 一层面向本地 AI OS 的交互界面">
+  <title>AMADEUS // CHAPTER 00 — 一层面向本地 AI OS 的交互界面</title>
   <defs>
     <linearGradient id="c_panel" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0b1711"/>
@@ -52,7 +52,7 @@
       <text class="cjk" x="1110" y="65" font-size="13" letter-spacing="1" fill="#d7a95f" text-anchor="middle">源码整理中</text>
     </g>
 
-    <text class="cjk" x="50" y="142" font-size="36" font-weight="600" fill="#eafff2">对话、角色表演与任务执行，共享同一条时间线</text>
+    <text class="cjk" x="50" y="142" font-size="36" font-weight="600" fill="#eafff2">一层面向本地 AI OS 的交互界面</text>
 
     <rect x="52" y="196" width="1176" height="1" fill="url(#c_hair)"/>
     <g fill="#a8cdb8" opacity=".1">
